@@ -1,3 +1,0 @@
-/home/ivysonlucas/bti/2025.2/edb2/genealogiacal-tree/build/CMakeFiles/genealogical.dir
-/home/ivysonlucas/bti/2025.2/edb2/genealogiacal-tree/build/CMakeFiles/edit_cache.dir
-/home/ivysonlucas/bti/2025.2/edb2/genealogiacal-tree/build/CMakeFiles/rebuild_cache.dir
