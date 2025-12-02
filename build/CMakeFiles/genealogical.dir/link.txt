@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Werror -Wfatal-errors -Wl,--dependency-file=CMakeFiles/genealogical.dir/link.d CMakeFiles/genealogical.dir/src/main.cpp.o CMakeFiles/genealogical.dir/src/Person.cpp.o -o genealogical
