@@ -9,7 +9,9 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -Werror -Wfatal-errors")
 
 add_executable(${CMAKE_PROJECT_NAME}
 	src/main.cpp
-  src/Person.cpp
+  	src/core/Person.cpp
+	src/core/FamilyManager.cpp
+	src/tui/Tui.cpp
 )
 
 target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
